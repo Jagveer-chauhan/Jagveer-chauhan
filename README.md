@@ -45,6 +45,11 @@ Available for **Full-Time, Contract, & Freelance Engineering Engagements** (US, 
 - **Stack:** Python, Docker, Asynchronous LLM Workflows, Cloud Event Architecture.
 - **Key Contributions:** Sub-5-second retrieval readiness and event-driven worker concurrency.
 
+#### 📑 [Document Approval Workflow](https://github.com/Jagveer-chauhan/document-approval-workflow)
+> *Full-stack enterprise document approval state machine with strict RBAC and live cloud deployment.*
+- **Stack:** Python 3.11, Django 5.x, Django REST Framework, React 19, Vite, PostgreSQL, Render.
+- **Key Contributions:** Engineered strict non-terminal status transitions (`pending` → `approved`/`rejected`), IDOR protection, MIME validation, 52 automated tests, and live production deployment on Render.
+
 ---
 
 ### 🏛️ Professional Experience & Enterprise Case Studies
