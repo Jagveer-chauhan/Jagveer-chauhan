@@ -153,6 +153,42 @@
   <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Divider" />
 </p>
 
+## 🌐 OPEN SOURCE & ECOSYSTEM CONTRIBUTIONS
+
+<table align="center" width="100%" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr align="center">
+      <th width="30%">Project & Ecosystem</th>
+      <th width="40%">Role & Key Contributions</th>
+      <th width="30%">Stack & Production Impact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr valign="top">
+      <td>
+        <b><a href="https://github.com/live-composer/live-composer-page-builder">Live Composer Page Builder</a></b><br/>
+        <i>Open-Source Drag & Drop Page Builder for WordPress</i><br/><br/>
+        <a href="https://github.com/live-composer/live-composer-page-builder"><img src="https://img.shields.io/github/stars/live-composer/live-composer-page-builder?style=flat-square&color=3B82F6" alt="Stars" /></a>
+        <a href="https://github.com/live-composer/live-composer-page-builder/releases"><img src="https://img.shields.io/badge/Release-2.1.x-22C55E?style=flat-square" alt="Releases" /></a>
+      </td>
+      <td>
+        • <b>Core Release Engineering:</b> Authored & packaged core releases (e.g. <code>v2.1.9</code>, <code>v2.1.x</code> release pipeline).<br/>
+        • <b>Editor Compatibility Fixes:</b> Resolved critical rendering regressions between default post editor and drag-and-drop canvas.<br/>
+        • <b>Module Ecosystem:</b> Maintained and extended modular UI builder controls, shortcode rendering, and DOM security sanitization.
+      </td>
+      <td>
+        <code>PHP 8</code> · <code>WordPress Core</code> · <code>JavaScript</code> · <code>jQuery UI</code><br/><br/>
+        <b>Production Scale:</b><br/>
+        Active across thousands of production WordPress deployments worldwide.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Divider" />
+</p>
+
 ## 📊 ENGINEERING BENCHMARKS & TELEMETRY
 
 <div align="center">
