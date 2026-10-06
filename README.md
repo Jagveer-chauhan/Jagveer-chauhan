@@ -1,13 +1,13 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2400&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&height=50&lines=Jagveer+Chauhan;Senior+Full-Stack+%26+Backend+Engineer;Laravel+12+%7C+Python+(FastAPI)+%7C+React+19" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2400&pause=1000&color=1D4ED8&center=true&vCenter=true&width=750&height=50&lines=Jagveer+Chauhan;Senior+Full-Stack+%26+Backend+Engineer;Laravel+12+%7C+Python+(FastAPI)+%7C+React+19" />
-  <img alt="Jagveer Chauhan" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2400&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&height=50&lines=Jagveer+Chauhan;Senior+Full-Stack+%26+Backend+Engineer;Laravel+12+%7C+Python+(FastAPI)+%7C+React+19" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2400&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&height=50&lines=Jagveer+Chauhan+%7C+Senior+Full-Stack+%26+Systems+Engineer+(4%2B+Years);Laravel+12+%C2%B7+Python+(FastAPI%2FDjango)+%C2%B7+React+19;Architect+of+High-Throughput+Systems+(8M%2B+Users)" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2400&pause=1000&color=1D4ED8&center=true&vCenter=true&width=750&height=50&lines=Jagveer+Chauhan+%7C+Senior+Full-Stack+%26+Systems+Engineer+(4%2B+Years);Laravel+12+%C2%B7+Python+(FastAPI%2FDjango)+%C2%B7+React+19;Architect+of+High-Throughput+Systems+(8M%2B+Users)" />
+  <img alt="Jagveer Chauhan" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2400&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&height=50&lines=Jagveer+Chauhan+%7C+Senior+Full-Stack+%26+Systems+Engineer+(4%2B+Years);Laravel+12+%C2%B7+Python+(FastAPI%2FDjango)+%C2%B7+React+19;Architect+of+High-Throughput+Systems+(8M%2B+Users)" />
 </picture>
 
 <p align="center">
-  <b>Senior Full-Stack & Systems Engineer</b> specializing in high-throughput backends, complex SQL query tuning, and applied AI systems.<br/>
+  <b>Senior Full-Stack & Systems Engineer (4+ Years Production Experience)</b> specializing in high-throughput backends, complex SQL query tuning, and applied AI systems.<br/>
   Proven track record slashing enterprise reporting latency from <b>30s+ to under 2s</b> and architecting STQC-certified platforms for <b>8M+ users</b>.
 </p>
 
@@ -22,6 +22,8 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/⚡_EXPERIENCE-4%2B_YEARS_FULL--STACK-3B82F6?style=flat-square&labelColor=0d1117" alt="4+ Years Experience" />
+  &nbsp;
   <img src="https://img.shields.io/badge/⚡_STATUS-IMMEDIATE_JOINER-22C55E?style=flat-square&labelColor=0d1117" alt="Immediate Joiner" />
   &nbsp;
   <img src="https://img.shields.io/badge/🌍_WORK_MODE-REMOTE_(US%20%2F%20UK%20%2F%20EU%20%2F%20AU%20%2F%20IN)_%7C_DELHI_NCR_ON--SITE-3B82F6?style=flat-square&labelColor=0d1117" alt="Work Mode" />
@@ -147,48 +149,6 @@
 
 </td>
 </tr>
-</table>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Divider" />
-</p>
-
-## 🌐 OPEN SOURCE & ECOSYSTEM CONTRIBUTIONS
-
-<table align="center" width="100%" cellspacing="0" cellpadding="8">
-  <thead>
-    <tr align="center">
-      <th width="28%">Project & Leadership</th>
-      <th width="44%">Architectural Overhaul & Core Engineering (2023 – 2025)</th>
-      <th width="28%">Production Impact</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr valign="top">
-      <td>
-        <b><a href="https://github.com/live-composer/live-composer-page-builder">Live Composer Page Builder</a></b><br/>
-        <i>Open-Source Drag & Drop Visual Builder for WordPress</i><br/><br/>
-        <a href="https://github.com/live-composer/live-composer-page-builder"><img src="https://img.shields.io/github/stars/live-composer/live-composer-page-builder?style=flat-square&color=3B82F6" alt="Stars" /></a>
-        <a href="https://github.com/live-composer/live-composer-page-builder/releases"><img src="https://img.shields.io/badge/Releases-v2.1.0_thru_v2.1.9+-22C55E?style=flat-square" alt="Releases" /></a>
-        <br/><br/>
-        <b>Role:</b> Core Lead Engineer<br/>
-        <b>Duration:</b> 2 Full Years (2023 – 2025)
-      </td>
-      <td>
-        • <b>Modern Architecture Overhaul:</b> Spearheaded complete 2-year modernization refactoring legacy builder internals to support modern WordPress 6.x standards.<br/>
-        • <b>Core Release Engineering:</b> Authored, packaged, and managed core production releases (<code>v2.1.0</code> through <code>v2.1.9+</code>).<br/>
-        • <b>Canvas Latency & Memory Tuning:</b> Optimized responsive layout engine, custom drag-and-drop interactive modules, and asset-loader pipeline.<br/>
-        • <b>Backwards Compatibility & Security:</b> Eliminated editor regressions, hardened shortcode execution against injection vulnerabilities, and modernized jQuery UI dependencies.<br/>
-        • <b>Direct Git Commits:</b> Authored under <code>Jagveer Chauhan</code> across core milestone tags and releases.
-      </td>
-      <td>
-        <code>PHP 8+</code> · <code>WordPress Core</code> · <code>JavaScript</code> · <code>jQuery UI</code><br/><br/>
-        <b>Verified Production Footprint:</b><br/>
-        ⚡ Active across <b>thousands of live production websites</b> globally.<br/><br/>
-        🔗 <a href="https://github.com/live-composer/live-composer-page-builder/releases"><b>View Releases</b></a> · <a href="https://github.com/live-composer/live-composer-page-builder/commits/master"><b>Commit Logs</b></a>
-      </td>
-    </tr>
-  </tbody>
 </table>
 
 <p align="center">
