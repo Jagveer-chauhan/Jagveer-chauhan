@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2400&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&height=50&lines=Jagveer+Chauhan+%7C+Senior+Full-Stack+%26+Systems+Engineer+(4%2B+Years);Laravel+12+%C2%B7+Python+(FastAPI%2FDjango)+%C2%B7+React+19;Architect+of+High-Throughput+Systems+(8M%2B+Users)" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2400&pause=1000&color=1D4ED8&center=true&vCenter=true&width=750&height=50&lines=Jagveer+Chauhan+%7C+Senior+Full-Stack+%26+Systems+Engineer+(4%2B+Years);Laravel+12+%C2%B7+Python+(FastAPI%2FDjango)+%C2%B7+React+19;Architect+of+High-Throughput+Systems+(8M%2B+Users)" />
-  <img alt="Jagveer Chauhan" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2400&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&height=50&lines=Jagveer+Chauhan+%7C+Senior+Full-Stack+%26+Systems+Engineer+(4%2B+Years);Laravel+12+%C2%B7+Python+(FastAPI%2FDjango)+%C2%B7+React+19;Architect+of+High-Throughput+Systems+(8M%2B+Users)" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&height=45&lines=Jagveer+Chauhan;Senior+Full-Stack+%26+Systems+Engineer;4%2B+Years+Production+Experience;Laravel+12+%C2%B7+Python+FastAPI+%C2%B7+React+19;Architect+of+High-Throughput+Systems+(8M%2B+Users)" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=1000&color=1D4ED8&center=true&vCenter=true&width=800&height=45&lines=Jagveer+Chauhan;Senior+Full-Stack+%26+Systems+Engineer;4%2B+Years+Production+Experience;Laravel+12+%C2%B7+Python+FastAPI+%C2%B7+React+19;Architect+of+High-Throughput+Systems+(8M%2B+Users)" />
+  <img alt="Jagveer Chauhan" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&height=45&lines=Jagveer+Chauhan;Senior+Full-Stack+%26+Systems+Engineer;4%2B+Years+Production+Experience;Laravel+12+%C2%B7+Python+FastAPI+%C2%B7+React+19;Architect+of+High-Throughput+Systems+(8M%2B+Users)" />
 </picture>
 
 <p align="center">
@@ -240,13 +240,34 @@
 
 <br/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagveer-chauhan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=5a7fff&text_color=94a3b8&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagveer-chauhan&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=57606a&langs_count=8" />
-    <img alt="Top Languages & Tech Distribution" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagveer-chauhan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=5a7fff&text_color=94a3b8&langs_count=8" />
-  </picture>
-</p>
+<table align="center" width="100%" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr align="center">
+      <th width="42%">Most Used Languages & Technologies</th>
+      <th width="58%">Engineering Velocity & Production Telemetry</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr valign="middle">
+      <td align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagveer-chauhan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=5a7fff&text_color=94a3b8&langs_count=8" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagveer-chauhan&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=57606a&langs_count=8" />
+          <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagveer-chauhan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=5a7fff&text_color=94a3b8&langs_count=8" />
+        </picture>
+      </td>
+      <td align="left">
+        <p><b>⚡ Production Velocity Summary</b></p>
+        • <b>Years of Senior Engineering:</b> <code>4+ Years</code> full-stack enterprise lifecycle<br/>
+        • <b>Citizens Served at Scale:</b> <code>8,008,785+</code> across Central & State eGov platforms<br/>
+        • <b>Database Latency Reduction:</b> <code>30s+ ➔ &lt;2s</code> (93% optimization on 8M+ row tables)<br/>
+        • <b>Open-Source Lead Tenure:</b> <code>2 Full Years</code> modernizing Live Composer WordPress engine<br/>
+        • <b>CI/CD & Quality Standard:</b> Automated test coverage via Pest, PHPUnit, PyTest, Vite React<br/>
+        • <b>Availability:</b> <b>Immediate Joiner</b> (Global Remote | Delhi NCR On-Site)
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
