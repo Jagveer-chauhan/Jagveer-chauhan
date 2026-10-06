@@ -155,6 +155,48 @@
   <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Divider" />
 </p>
 
+## 🌐 OPEN SOURCE & ECOSYSTEM CONTRIBUTIONS
+
+<table align="center" width="100%" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr align="center">
+      <th width="28%">Project & Leadership</th>
+      <th width="44%">Architectural Overhaul & Core Engineering (2023 – 2025)</th>
+      <th width="28%">Production Impact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr valign="top">
+      <td>
+        <b><a href="https://github.com/live-composer/live-composer-page-builder">Live Composer Page Builder</a></b><br/>
+        <i>Open-Source Drag & Drop Visual Builder for WordPress</i><br/><br/>
+        <a href="https://github.com/live-composer/live-composer-page-builder"><img src="https://img.shields.io/github/stars/live-composer/live-composer-page-builder?style=flat-square&color=3B82F6" alt="Stars" /></a>
+        <a href="https://github.com/live-composer/live-composer-page-builder/releases"><img src="https://img.shields.io/badge/Releases-v2.1.0_thru_v2.1.9+-22C55E?style=flat-square" alt="Releases" /></a>
+        <br/><br/>
+        <b>Role:</b> Core Lead Engineer<br/>
+        <b>Duration:</b> 2 Full Years (2023 – 2025)
+      </td>
+      <td>
+        • <b>Modern Architecture Overhaul:</b> Spearheaded complete 2-year modernization refactoring legacy builder internals to support modern WordPress 6.x standards.<br/>
+        • <b>Core Release Engineering:</b> Authored, packaged, and managed core production releases (<code>v2.1.0</code> through <code>v2.1.9+</code>).<br/>
+        • <b>Canvas Latency & Memory Tuning:</b> Optimized responsive layout engine, custom drag-and-drop interactive modules, and asset-loader pipeline.<br/>
+        • <b>Backwards Compatibility & Security:</b> Eliminated editor regressions, hardened shortcode execution against injection vulnerabilities, and modernized jQuery UI dependencies.<br/>
+        • <b>Direct Git Commits:</b> Authored under <code>Jagveer Chauhan</code> across core milestone tags and releases.
+      </td>
+      <td>
+        <code>PHP 8+</code> · <code>WordPress Core</code> · <code>JavaScript</code> · <code>jQuery UI</code><br/><br/>
+        <b>Verified Production Footprint:</b><br/>
+        ⚡ Active across <b>thousands of live production websites</b> globally.<br/><br/>
+        🔗 <a href="https://github.com/live-composer/live-composer-page-builder/releases"><b>View Releases</b></a> · <a href="https://github.com/live-composer/live-composer-page-builder/commits/master"><b>Commit Logs</b></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Divider" />
+</p>
+
 ## 📊 ENGINEERING BENCHMARKS & TELEMETRY
 
 <div align="center">
