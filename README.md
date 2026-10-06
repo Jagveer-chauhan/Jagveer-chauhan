@@ -22,20 +22,18 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡_EXPERIENCE-4%2B_YEARS_FULL--STACK-3B82F6?style=flat-square&labelColor=0d1117" alt="4+ Years Experience" />
+  <img src="https://img.shields.io/badge/⚡_EXPERIENCE-4%2B_YEARS_FULL--STACK-3B82F6?style=flat-square" alt="4+ Years Experience" />
   &nbsp;
-  <img src="https://img.shields.io/badge/⚡_STATUS-IMMEDIATE_JOINER-22C55E?style=flat-square&labelColor=0d1117" alt="Immediate Joiner" />
+  <img src="https://img.shields.io/badge/⚡_STATUS-IMMEDIATE_JOINER-22C55E?style=flat-square" alt="Immediate Joiner" />
   &nbsp;
-  <img src="https://img.shields.io/badge/🌍_WORK_MODE-REMOTE_(US%20%2F%20UK%20%2F%20EU%20%2F%20AU%20%2F%20IN)_%7C_DELHI_NCR_ON--SITE-3B82F6?style=flat-square&labelColor=0d1117" alt="Work Mode" />
+  <img src="https://img.shields.io/badge/🌍_WORK_MODE-REMOTE_(US%20%2F%20UK%20%2F%20EU%20%2F%20AU%20%2F%20IN)_%7C_DELHI_NCR_ON--SITE-3B82F6?style=flat-square" alt="Work Mode" />
   &nbsp;
-  <img src="https://img.shields.io/badge/🎓_EDUCATION-MCA_9.28_CGPA-8B5CF6?style=flat-square&labelColor=0d1117" alt="MCA Degree" />
+  <img src="https://img.shields.io/badge/🎓_EDUCATION-MCA_9.28_CGPA-8B5CF6?style=flat-square" alt="MCA Degree" />
 </p>
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Divider" />
-</p>
+<hr />
 
 ## 🛠️ TECHNICAL ARSENAL & CORE EXPERTISE
 
@@ -79,7 +77,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg" width="38" height="38" alt="WooCommerce" /><br/><b>WooCommerce</b><br/><br/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="38" height="38" alt="OpenCV" /><br/><b>OpenCV / PaddleOCR</b><br/><br/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="38" height="38" alt="Docker" /><br/><b>Docker</b><br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS" /><br/><b>AWS S3 / Render</b><br/><br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="38" height="38" style="border-radius: 6px;" alt="AWS" /><br/><b>AWS S3 / Render</b><br/><br/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38" height="38" alt="Git" /><br/><b>Git / CI/CD</b>
       </td>
     </tr>
@@ -88,9 +86,7 @@
 
 > 💡 **Specialized Architectural Capabilities:** Enterprise Multi-Tenant ERPs, N+1 Query Regression Elimination, High-Volume Data Pipelines, Custom WordPress Plugin & Theme Development, WooCommerce Custom Checkout & Stripe Workflows, STQC Government Security Audits, WebAuthn Passkeys & TOTP MFA.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%" alt="Divider" />
-</p>
+<hr />
 
 ## 🚀 FEATURED FLAGSHIP SYSTEMS
 
@@ -151,9 +147,7 @@
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Divider" />
-</p>
+<hr />
 
 ## 🌐 OPEN SOURCE & ECOSYSTEM CONTRIBUTIONS
 
@@ -173,29 +167,27 @@
         <a href="https://github.com/live-composer/live-composer-page-builder"><img src="https://img.shields.io/github/stars/live-composer/live-composer-page-builder?style=flat-square&color=3B82F6" alt="Stars" /></a>
         <a href="https://github.com/live-composer/live-composer-page-builder/releases"><img src="https://img.shields.io/badge/Releases-v2.1.0_thru_v2.1.9+-22C55E?style=flat-square" alt="Releases" /></a>
         <br/><br/>
-        <b>Role:</b> Core Lead Engineer<br/>
+        <b>Role:</b> Core Lead Engineer (Blue Astral tenure)<br/>
         <b>Duration:</b> 2 Full Years (2023 – 2025)
       </td>
       <td>
         • <b>Modern Architecture Overhaul:</b> Spearheaded complete 2-year modernization refactoring legacy builder internals to support modern WordPress 6.x standards.<br/>
-        • <b>Core Release Engineering:</b> Authored, packaged, and managed core production releases (<code>v2.1.0</code> through <code>v2.1.9+</code>).<br/>
+        • <b>Core Release Engineering:</b> Authored, packaged, and managed core production releases (<code>v2.1.0</code> through <code>v2.1.9+</code>) during engineering tenure at Blue Astral.<br/>
         • <b>Canvas Latency & Memory Tuning:</b> Optimized responsive layout engine, custom drag-and-drop interactive modules, and asset-loader pipeline.<br/>
         • <b>Backwards Compatibility & Security:</b> Eliminated editor regressions, hardened shortcode execution against injection vulnerabilities, and modernized jQuery UI dependencies.<br/>
-        • <b>Direct Git Commits:</b> Authored under <code>Jagveer Chauhan</code> across core milestone tags and releases.
+        • <b>Verified Milestone Commits:</b> Authored under <code>Jagveer Chauhan</code> across core milestone tags and release merges.
       </td>
       <td>
         <code>PHP 8+</code> · <code>WordPress Core</code> · <code>JavaScript</code> · <code>jQuery UI</code><br/><br/>
         <b>Verified Production Footprint:</b><br/>
         ⚡ Active across <b>thousands of live production websites</b> globally.<br/><br/>
-        🔗 <a href="https://github.com/live-composer/live-composer-page-builder/releases"><b>View Releases</b></a> · <a href="https://github.com/live-composer/live-composer-page-builder/commits/master"><b>Commit Logs</b></a>
+        🔗 <a href="https://github.com/live-composer/live-composer-page-builder/releases/tag/2.1.9"><b>View Release v2.1.9</b></a> · <a href="https://github.com/live-composer/live-composer-page-builder/commits/master"><b>Commit Logs</b></a>
       </td>
     </tr>
   </tbody>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Divider" />
-</p>
+<hr />
 
 ## 📊 ENGINEERING BENCHMARKS & TELEMETRY
 
@@ -271,9 +263,7 @@
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%" alt="Divider" />
-</p>
+<hr />
 
 ## 📬 GET IN TOUCH & AVAILABILITY
 
@@ -284,7 +274,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:jagveerchauhan3766@gmail.com"><img src="https://img.shields.io/badge/Let's_Work_Together-Send_an_Email-22c55e?style=for-the-badge&logo=mail.ru&logoColor=white" height="38" alt="Send an Email" /></a>
+  <a href="mailto:jagveerchauhan3766@gmail.com"><img src="https://img.shields.io/badge/Let's_Work_Together-Send_an_Email-22c55e?style=for-the-badge&logo=gmail&logoColor=white" height="38" alt="Send an Email" /></a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jagveer-chauhan/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
@@ -293,6 +283,6 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Divider" />
+<hr />
 
 </div>
