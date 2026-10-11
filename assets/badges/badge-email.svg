@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="36" viewBox="0 0 170 36">
+  <defs>
+    <linearGradient id="g_badge" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#f85149" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#f85149" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="168" height="34" rx="8" fill="#250f14" stroke="url(#g_badge)" stroke-width="1.5"/>
+  <text x="14" y="23" font-size="14">✉️</text>
+  <text x="36" y="22" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,sans-serif" font-size="11" font-weight="700" fill="#ffffff" letter-spacing="0.5">EMAIL</text>
+  <text x="158" y="22" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,sans-serif" font-size="10" fill="#f85149" font-weight="600">Direct Inquiry ↗</text>
+</svg>
