@@ -1,28 +1,28 @@
 <p align="center">
-  <img src="./assets/hero.svg?v=3" width="100%" alt="Hi, I'm Jagveer Chauhan — Senior Full-Stack & Systems Engineer (4+ Years). Specializing in high-throughput backends, complex SQL query tuning, and applied AI systems." />
+  <img src="./assets/hero.svg?v=4" width="100%" alt="Hi, I'm Jagveer Chauhan — Senior Full-Stack & Systems Engineer (4+ Years). Specializing in high-throughput backends, complex SQL query tuning, and applied AI systems." />
 </p>
 
 <p align="center">
-  <a href="https://jagveer-chauhan.github.io/portfolio/"><img src="./assets/badges/badge-portfolio.svg" height="32" alt="Portfolio" /></a>&nbsp;
-  <a href="https://jagveer-chauhan.github.io/portfolio/resume.html"><img src="./assets/badges/badge-resume.svg" height="32" alt="Interactive Resume" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/jagveer-chauhan/"><img src="./assets/badges/badge-linkedin.svg" height="32" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:jagveerchauhan3766@gmail.com"><img src="./assets/badges/badge-email.svg" height="32" alt="Email" /></a>&nbsp;
-  <a href="https://github.com/Jagveer-chauhan?tab=repositories"><img src="./assets/badges/badge-repos.svg" height="32" alt="Repositories" /></a>
+  <a href="https://jagveer-chauhan.github.io/portfolio/"><strong>🌐 Portfolio</strong></a> &nbsp;&bull;&nbsp;
+  <a href="https://jagveer-chauhan.github.io/portfolio/resume.html"><strong>📄 Interactive Resume &amp; PDF</strong></a> &nbsp;&bull;&nbsp;
+  <a href="https://www.linkedin.com/in/jagveer-chauhan/"><strong>💼 LinkedIn</strong></a> &nbsp;&bull;&nbsp;
+  <a href="mailto:jagveerchauhan3766@gmail.com"><strong>✉️ Direct Email</strong></a> &nbsp;&bull;&nbsp;
+  <a href="https://github.com/Jagveer-chauhan?tab=repositories"><strong>⚡ All Repositories</strong></a>
 </p>
 
-<img src="./assets/about-life.svg?v=3" width="100%" alt="Systems built for scale: high-throughput backends, sub-2s query latency tuning, STQC & GIGW certified platforms for 8M+ citizens, and 2-year core open source engineering on Live Composer." />
+<img src="./assets/about-life.svg?v=4" width="100%" alt="Systems built for scale: high-throughput backends, sub-2s query latency tuning, STQC & GIGW certified platforms for 8M+ citizens, and 2-year core open source engineering on Live Composer." />
 
-<img src="./assets/stack.svg?v=3" width="100%" alt="Technical arsenal: PHP Laravel 12, Python FastAPI & Django, React 19, Next.js 15, PostgreSQL, MySQL, Docker, Redis, and OpenCV & Gemma RAG." />
+<img src="./assets/stack.svg?v=4" width="100%" alt="Technical arsenal: PHP Laravel 12, Python FastAPI & Django, React 19, Next.js 15, PostgreSQL, MySQL, Docker, Redis, and OpenCV & Gemma RAG." />
 
 <p align="center">
-  <img src="./assets/projects-carousel.svg?v=3" width="100%" alt="Auto-playing Featured Project Labs & Production Systems Showcase" />
+  <img src="./assets/projects-carousel.svg?v=4" width="100%" alt="Auto-playing Featured Project Labs & Production Systems Showcase" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/live-composer/live-composer-page-builder"><img src="./assets/badges/badge-proj1.svg" height="32" alt="Live Composer Release" /></a>&nbsp;
-  <a href="https://github.com/Jagveer-chauhan/Handwritten-Invoice-Extraction-System"><img src="./assets/badges/badge-proj2.svg" height="32" alt="Invoice OCR Repository" /></a>&nbsp;
-  <a href="https://document-approval-workflow.onrender.com"><img src="./assets/badges/badge-proj3.svg" height="32" alt="Workflow Live Demo" /></a>&nbsp;
-  <a href="https://github.com/Jagveer-chauhan/CV-analyzer"><img src="./assets/badges/badge-proj4.svg" height="32" alt="RAG CV Talent Platform" /></a>
+  <a href="https://github.com/live-composer/live-composer-page-builder/releases/tag/2.1.9"><strong>🚀 01. Live Composer (v2.1.9 Release) ↗</strong></a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <a href="https://github.com/Jagveer-chauhan/Handwritten-Invoice-Extraction-System"><strong>👁️ 02. Invoice OCR Engine (Code) ↗</strong></a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <a href="https://document-approval-workflow.onrender.com"><strong>⚡ 03. Workflow Engine (Live Demo &amp; Code) ↗</strong></a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <a href="https://github.com/Jagveer-chauhan/CV-analyzer"><strong>🧠 04. RAG CV Talent Platform (Code) ↗</strong></a>
 </p>
 
 ### Things I've built
@@ -35,7 +35,7 @@
 | [**RAG CV Talent Intelligence**](https://github.com/Jagveer-chauhan/CV-analyzer) | Talent intelligence pipeline with multi-format parsing & semantic vector retrieval | GenAI & RAG &bull; Google Gemma 3 &bull; Supabase PostgreSQL &bull; React | [View Code](https://github.com/Jagveer-chauhan/CV-analyzer) |
 | [**CBFC India Government Portal**](https://cbfcindia.gov.in) | National film certification platform serving 8,008,785+ citizens | High Scale Web &bull; STQC & GIGW Certified &bull; PostgreSQL &bull; PHP | [Visit Portal](https://cbfcindia.gov.in) |
 
-<img src="./assets/connect.svg?v=3" width="100%" alt="Start a conversation. Open for immediate opportunities (Worldwide Remote & Delhi NCR On-Site). Connect on LinkedIn, explore portfolio, view interactive resume, or send an email." />
+<img src="./assets/connect.svg?v=4" width="100%" alt="Start a conversation. Open for immediate opportunities (Worldwide Remote & Delhi NCR On-Site). Connect on LinkedIn, explore portfolio, view interactive resume, or send an email." />
 
 <p align="center">
   <a href="https://jagveer-chauhan.github.io/portfolio/">Portfolio</a> &nbsp;&bull;&nbsp;
