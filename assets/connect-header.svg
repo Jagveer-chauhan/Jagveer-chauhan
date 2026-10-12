@@ -55,6 +55,6 @@ text { font-family: Display, sans-serif; fill: #f2f5ff; }
   </g>
   <rect x="850" y="310" width="280" height="48" rx="8" fill="#0c172a" stroke="#254773" stroke-width="1.5"/>
   <text x="866" y="332" font-size="12" fill="#ffffff">JAGVEER CHAUHAN</text>
-  <text x="866" y="348" font-size="10" fill="#388bfd" class="mono">Software Builder &amp; Problem Solver</text>
+  <text x="866" y="348" font-size="10" fill="#388bfd" class="mono">Senior Software Engineer</text>
 </g>
 </svg>
