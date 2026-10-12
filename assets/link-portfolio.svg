@@ -5,22 +5,19 @@
 .mono { font-family: Mono, monospace; }
 text { font-family: Display, sans-serif; }
 </style>
-<linearGradient id="card-grad" x1="0" y1="0" x2="1" y2="1">
+<linearGradient id="card-grad-My " x1="0" y1="0" x2="1" y2="1">
   <stop stop-color="#00e5ff" stop-opacity=".7"/>
   <stop offset="1" stop-color="#00e5ff" stop-opacity=".15"/>
 </linearGradient>
 </defs>
-<rect x="1" y="1" width="578" height="98" rx="14" fill="#091120" stroke="url(#card-grad)" stroke-width="1.5"/>
-<!-- Icon container -->
+<rect x="1" y="1" width="578" height="98" rx="14" fill="#091120" stroke="url(#card-grad-My )" stroke-width="1.5"/>
 <rect x="20" y="20" width="60" height="60" rx="10" fill="#0f1d33" stroke="#00e5ff" stroke-opacity=".4"/>
 <g transform="translate(32, 32)">
 <circle cx="18" cy="18" r="16" fill="none" stroke="#00e5ff" stroke-width="2"/><ellipse cx="18" cy="18" rx="8" ry="16" fill="none" stroke="#00e5ff" stroke-width="1.5"/><line x1="2" y1="18" x2="34" y2="18" stroke="#00e5ff" stroke-width="1.5"/>
 </g>
-<!-- Texts -->
-<text x="96" y="44" font-size="18" fill="#ffffff">Portfolio Website</text>
-<text x="96" y="66" font-size="11" fill="#8ea6c7" class="mono">Explore production systems &amp; live architectures</text>
+<text x="96" y="44" font-size="18" fill="#ffffff">My Portfolio</text>
+<text x="96" y="66" font-size="11" fill="#8ea6c7" class="mono">Explore live apps &amp; interactive projects</text>
 <text x="96" y="82" font-size="10" fill="#00e5ff" class="mono">jagveer-chauhan.github.io/portfolio ↗</text>
-<!-- Arrow -->
 <circle cx="538" cy="50" r="16" fill="#13243d"/>
 <path d="M533 44 L543 50 L533 56" fill="none" stroke="#00e5ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

@@ -5,22 +5,21 @@
 .mono { font-family: Mono, monospace; }
 text { font-family: Display, sans-serif; }
 </style>
-<linearGradient id="pcard-grad" x1="0" y1="0" x2="1" y2="1">
+<linearGradient id="pcard-grad-AI " x1="0" y1="0" x2="1" y2="1">
   <stop stop-color="#ec4899" stop-opacity=".75"/>
   <stop offset="1" stop-color="#ec4899" stop-opacity=".15"/>
 </linearGradient>
 </defs>
-<rect x="1" y="1" width="578" height="148" rx="14" fill="#080e1a" stroke="url(#pcard-grad)" stroke-width="1.5"/>
+<rect x="1" y="1" width="578" height="148" rx="14" fill="#080e1a" stroke="url(#pcard-grad-AI )" stroke-width="1.5"/>
 <rect x="18" y="16" width="130" height="22" rx="4" fill="#0f1d33"/>
-<text x="26" y="31" font-size="9" fill="#ec4899" class="mono" letter-spacing="1">GENAI &amp; SEMANTIC SEARCH</text>
+<text x="26" y="31" font-size="9" fill="#ec4899" class="mono" letter-spacing="1">AI HIRING ASSISTANT</text>
 
-<text x="18" y="62" font-size="20" fill="#ffffff">RAG CV Talent Intelligence</text>
-<text x="18" y="86" font-size="11" fill="#8fa7c7" class="mono">Autonomous talent ingestion platform with vector retrieval.</text>
-<text x="18" y="106" font-size="10" fill="#cedbf0" class="mono">FastAPI · Google Gemma 3 · Supabase pgvector · React</text>
+<text x="18" y="62" font-size="20" fill="#ffffff">Smart Resume &amp; Talent Finder</text>
+<text x="18" y="86" font-size="11" fill="#8fa7c7" class="mono">Natural language search assistant that finds the best talent instantly.</text>
+<text x="18" y="106" font-size="10" fill="#cedbf0" class="mono">Search in Plain English · Reads PDFs Effortlessly · Smart Match Scores</text>
 
-<!-- Action pill -->
 <rect x="18" y="118" width="160" height="22" rx="4" fill="#13243d"/>
-<text x="26" y="133" font-size="10" fill="#ec4899" class="mono">Open Repository &amp; Demo ↗</text>
+<text x="26" y="133" font-size="10" fill="#ec4899" class="mono">Explore Code &amp; Demo ↗</text>
 <circle cx="542" cy="75" r="18" fill="#11223a"/>
 <path d="M537 68 L547 75 L537 82" fill="none" stroke="#ec4899" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

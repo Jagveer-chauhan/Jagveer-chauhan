@@ -5,22 +5,21 @@
 .mono { font-family: Mono, monospace; }
 text { font-family: Display, sans-serif; }
 </style>
-<linearGradient id="pcard-grad" x1="0" y1="0" x2="1" y2="1">
+<linearGradient id="pcard-grad-POP" x1="0" y1="0" x2="1" y2="1">
   <stop stop-color="#247bff" stop-opacity=".75"/>
   <stop offset="1" stop-color="#247bff" stop-opacity=".15"/>
 </linearGradient>
 </defs>
-<rect x="1" y="1" width="578" height="148" rx="14" fill="#080e1a" stroke="url(#pcard-grad)" stroke-width="1.5"/>
+<rect x="1" y="1" width="578" height="148" rx="14" fill="#080e1a" stroke="url(#pcard-grad-POP)" stroke-width="1.5"/>
 <rect x="18" y="16" width="130" height="22" rx="4" fill="#0f1d33"/>
-<text x="26" y="31" font-size="9" fill="#247bff" class="mono" letter-spacing="1">OPEN SOURCE CORE</text>
+<text x="26" y="31" font-size="9" fill="#247bff" class="mono" letter-spacing="1">POPULAR OPEN SOURCE</text>
 
-<text x="18" y="62" font-size="20" fill="#ffffff">Live Composer Page Builder</text>
-<text x="18" y="86" font-size="11" fill="#8fa7c7" class="mono">Drag-and-drop website editor powering 10,000+ WordPress sites.</text>
-<text x="18" y="106" font-size="10" fill="#cedbf0" class="mono">PHP 8.2 · WP Hook API · 2K+ Stars · v2.1.9 Release</text>
+<text x="18" y="62" font-size="20" fill="#ffffff">Live Composer Website Builder</text>
+<text x="18" y="86" font-size="11" fill="#8fa7c7" class="mono">Visual drag-and-drop website builder powering 10,000+ active creators.</text>
+<text x="18" y="106" font-size="10" fill="#cedbf0" class="mono">Free &amp; Open Source · 2,000+ Stars · 2-Year Core Leadership</text>
 
-<!-- Action pill -->
 <rect x="18" y="118" width="160" height="22" rx="4" fill="#13243d"/>
-<text x="26" y="133" font-size="10" fill="#247bff" class="mono">Open Repository &amp; Demo ↗</text>
+<text x="26" y="133" font-size="10" fill="#247bff" class="mono">Explore Code &amp; Demo ↗</text>
 <circle cx="542" cy="75" r="18" fill="#11223a"/>
 <path d="M537 68 L547 75 L537 82" fill="none" stroke="#247bff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
